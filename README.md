@@ -4,7 +4,7 @@
 This is a **Python desktop application** for converting currencies in real-time using [ExchangeRate-API](https://www.exchangerate-api.com/).  
 It provides a clean and user-friendly **Tkinter-based GUI** for selecting currencies, entering amounts, and instantly getting conversion results.
 
-
+---
 
 ## 🖼️ Features
 
@@ -14,7 +14,7 @@ It provides a clean and user-friendly **Tkinter-based GUI** for selecting curren
 - 🧠 Shows full currency names alongside codes  
 - ✅ Input validation and error messages
 
-
+---
 
 ## 💻 Technologies Used
 
@@ -22,7 +22,7 @@ It provides a clean and user-friendly **Tkinter-based GUI** for selecting curren
 - `Tkinter` for GUI
 - `requests` for API communication
 
-
+---
 
 ## 📸 Screenshot
 
@@ -51,7 +51,7 @@ It provides a clean and user-friendly **Tkinter-based GUI** for selecting curren
    python main.py
    ```
 
-
+---
 
 ## 🌍 Supported Currencies
 
