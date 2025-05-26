@@ -26,10 +26,7 @@ It provides a clean and user-friendly **Tkinter-based GUI** for selecting curren
 
 ## 📸 Screenshot
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link.png" alt="Currency Converter GUI" width="400">
-</p>
-
+![Currency-Converter ](image.PNG)
 ---
 
 ## 🚀 How to Run
