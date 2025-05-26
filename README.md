@@ -40,7 +40,7 @@ It provides a clean and user-friendly **Tkinter-based GUI** for selecting curren
    ```bash
    git clone https://github.com/your-username/currency-converter.git
    cd currency-converter
-````
+   ```
 
 3. Install dependencies (if not already installed):
 
