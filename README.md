@@ -91,9 +91,5 @@ It provides a clean and user-friendly **Tkinter-based GUI** for selecting curren
 
 Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests.
 
----
-
-> Created with ❤️ by \[Nima-Mollaei]
-
 
 
