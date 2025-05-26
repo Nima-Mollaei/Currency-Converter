@@ -87,7 +87,7 @@ It provides a clean and user-friendly **Tkinter-based GUI** for selecting curren
 
 ---
 
-> Created with ❤️ by \[Your Name]
+> Created with ❤️ by \[Nima-Mollaei]
 
-```
+
 
