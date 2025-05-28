@@ -1,7 +1,7 @@
 
 # 💱 Currency Converter 
 
-This is a **Python desktop application** for converting currencies in real-time using [ExchangeRate-API](https://www.exchangerate-api.com/).  
+This is a **Python desktop application** for converting currencies in Real-Time using [ExchangeRate-API](https://www.exchangerate-api.com/).  
 It provides a clean and user-friendly **Tkinter-based GUI** for selecting currencies, entering amounts, and instantly getting conversion results.
 
 ---
