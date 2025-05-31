@@ -83,9 +83,9 @@ It provides a clean and user-friendly **Tkinter-based GUI** for selecting curren
 * All rates are relative to the **base currency** selected by user
 
 
-## 🤝 Contributing
+## 🤝 Contributing:
 
-Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests
+Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests.
 
 
 
