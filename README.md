@@ -85,7 +85,7 @@ It provides a clean and user-friendly **Tkinter-based GUI** for selecting curren
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests.
+Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests
 
 
 
