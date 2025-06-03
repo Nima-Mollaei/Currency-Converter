@@ -55,7 +55,7 @@ It provides a clean and user-friendly **Tkinter-based GUI** for selecting curren
 
 ## 🌍 Supported Currencies
 
-* USD (United States Dollar).
+* USD (United States Dollar)
 * EUR (Euro)
 * GBP (British Pound)
 * JPY (Japanese Yen)
