@@ -8,7 +8,7 @@ It provides a clean and user-friendly **Tkinter-based GUI** for selecting curren
 
 ## 🖼️ Features
 
-- 🔁 Convert between 18 major world currencies.
+- 🔁 Convert between 18 major world currencies
 - 🌐 Real-time exchange rates using REST API
 - 📥 Simple and clean graphical interface (built with `Tkinter`)
 - 🧠 Shows full currency names alongside codes  
