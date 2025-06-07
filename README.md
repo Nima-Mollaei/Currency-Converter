@@ -76,7 +76,7 @@ It provides a clean and user-friendly **Tkinter-based GUI** for selecting curren
 
 
 
-## 📌 Notes
+## 📌 Notes:
 
 * API used: **ExchangeRate-API (free version)**
 * Requires internet connection to fetch latest rates
