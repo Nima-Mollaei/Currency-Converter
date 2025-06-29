@@ -45,7 +45,7 @@ It provides a clean and user-friendly **Tkinter-based GUI** for selecting curren
    pip install requests
    ```
 
-4. Run the application::
+4. Run the application:
 
    ```bash
    python main.py
