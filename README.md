@@ -16,7 +16,7 @@ It provides a clean and user-friendly **Tkinter-based GUI** for selecting curren
 
 ---
 
-## 💻 Technologies Used:
+## 💻 Technologies Used
 
 - `Python 3`
 - `Tkinter` for GUI
